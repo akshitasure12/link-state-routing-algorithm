@@ -11,7 +11,7 @@ This method uses the term link state to define the characteristic of a link (an 
 
 ### Team Members :
 
-Advay Bhagwat
-Akshita Sure
-Apoorva Yadav
-Khushi Singh
+1. Advay Bhagwat
+2. Akshita Sure
+3. Apoorva Yadav
+4. Khushi Singh
